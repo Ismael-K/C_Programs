@@ -1,7 +1,7 @@
 /* Name:\
 Program summary: From the command line, this program will read a file that contains integers.  It will sort them
     and display the number of times that each number appears in the file.
-Date (last modified): 11/3/2013 */
+ */
 
 
 #include<stdio.h>
