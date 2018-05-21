@@ -1,5 +1,5 @@
 /* 
-Date (last modified):10/6/13
+
 Description:
 This program approximates the value of pi using the Monte Carlo method*/
 
